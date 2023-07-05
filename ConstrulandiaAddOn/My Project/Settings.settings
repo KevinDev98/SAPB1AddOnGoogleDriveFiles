@@ -1,0 +1,36 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="My" GeneratedClassName="MySettings" UseMySettingsClassName="true">
+  <Profiles />
+  <Settings>
+    <Setting Name="UsuarioSQL" Type="System.String" Scope="User">
+      <Value Profile="(Default)">sa</Value>
+    </Setting>
+    <Setting Name="Empresa" Type="System.String" Scope="User">
+      <Value Profile="(Default)">SBODemoMX</Value>
+    </Setting>
+    <Setting Name="IdCliente" Type="System.String" Scope="User">
+      <Value Profile="(Default)">1033848810809-fhot6cc5lptoag0poj394chd5rjahhag.apps.googleusercontent.com</Value>
+    </Setting>
+    <Setting Name="IdSecret" Type="System.String" Scope="User">
+      <Value Profile="(Default)">ll6xZwD43sGl9FlJXXNKnxD1</Value>
+    </Setting>
+    <Setting Name="PassSQL" Type="System.String" Scope="User">
+      <Value Profile="(Default)">SAPB1Admin</Value>
+    </Setting>
+    <Setting Name="CarpetaDrive" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\</Value>
+    </Setting>
+    <Setting Name="Carpeta" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\</Value>
+    </Setting>
+    <Setting Name="Contrasena" Type="System.String" Scope="User">
+      <Value Profile="(Default)">1234</Value>
+    </Setting>
+    <Setting Name="ServidorSQL" Type="System.String" Scope="User">
+      <Value Profile="(Default)">WIN-2IP0O7MLKO7\SAPSERVER2016</Value>
+    </Setting>
+    <Setting Name="LogErrores" Type="System.String" Scope="User">
+      <Value Profile="(Default)">E:\CDD02\Kevin Gutierrez Proyectos\CONSTRULANDIA\Ultima Version AddOn 19-10-20\LogErrores\</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
